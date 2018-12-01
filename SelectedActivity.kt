@@ -5,9 +5,9 @@ import android.support.v4.content.ContextCompat
 import android.support.v7.app.AppCompatDelegate
 import android.view.MenuItem
 import android.view.View
-import io.mertask.R
-import io.mertask.core.BaseVMActivity
-import io.mertask.databinding.ActivitySelectedBinding
+import example.R
+import example.BaseVMActivity
+import example.ActivitySelectedBinding
 
 class SelectedActivity : BaseVMActivity<SelectedActivityViewModel, ActivitySelectedBinding>() {
 
